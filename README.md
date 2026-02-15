@@ -11,6 +11,10 @@ The core interface features a high-conversion landing page integrated with a rea
 
 > **[Screenshot: Dashboard & Database Explorer]**  
 > *Displays the active landing page with the floating AI widget and the real-time "TBL_USERS" database view in the Live Console.*
+<img width="1920" height="880" alt="image2" src="https://github.com/user-attachments/assets/f53a8587-9ee8-474e-acf7-55b003cb03fe" />
+<img width="1920" height="880" alt="image1" src="https://github.com/user-attachments/assets/4bf6c0f7-c104-4a71-a756-75d4503cd7e2" />
+<img width="1920" height="880" alt="image4" src="https://github.com/user-attachments/assets/19130f29-554a-4ef7-8ba0-1ccef2734d83" />
+<img width="1920" height="880" alt="image3" src="https://github.com/user-attachments/assets/9dfaf288-6682-40e6-b280-e081c445662d" />
 
 ### 2. Enterprise Hero Experience
 A bold, modern landing page designed to communicate value immediately. It features animated mesh gradients, floating UI elements, and high-contrast typography.
